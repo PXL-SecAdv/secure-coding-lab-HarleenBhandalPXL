@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51e2bc65-7b6c-4bf5-a5ee-4e024f01fcf6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/.bin/mime" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/.bin/mime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/body-parser/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/body-parser/HISTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/body-parser/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/body-parser/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/body-parser/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/body-parser/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/body-parser/SECURITY.md" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/body-parser/SECURITY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/body-parser/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/body-parser/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/body-parser/lib/read.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/body-parser/lib/read.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/body-parser/lib/types/json.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/body-parser/lib/types/json.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/body-parser/lib/types/raw.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/body-parser/lib/types/raw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/body-parser/lib/types/text.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/body-parser/lib/types/text.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/body-parser/lib/types/urlencoded.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/body-parser/lib/types/urlencoded.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/body-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/body-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/content-type/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/content-type/HISTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/content-type/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/content-type/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/content-type/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/content-type/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/content-type/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/content-type/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/content-type/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/content-type/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/mime/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/mime/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/mime/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/mime/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/mime/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/mime/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/mime/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/mime/cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/mime/mime.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/mime/mime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/mime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/mime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/mime/src/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/mime/src/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/mime/src/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/mime/src/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/raw-body/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/raw-body/HISTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/raw-body/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/raw-body/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/raw-body/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/raw-body/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/raw-body/SECURITY.md" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/raw-body/SECURITY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/raw-body/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/raw-body/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/raw-body/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/raw-body/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/node_modules/raw-body/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/node_modules/raw-body/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/database.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../db/database.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
@@ -13,24 +62,78 @@
       </file>
     </leaf>
   </component>
-  <component name="ToolWindowManager">
-    <editor active="true" />
-    <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-    </layout>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HarleenBhandalPXL&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PXL-SecAdv/secure-coding-lab-HarleenBhandalPXL.git&quot;,
+    &quot;accountId&quot;: &quot;06130b2f-d42b-4284-9e54-c98ec1c6bd40&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2g3I7RjqfxIxmQyGdOsuCH8Xs1K" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-    </navigator>
+    <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
       <pane id="ProjectPane">
         <option name="show-excluded-files" value="false" />
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="dart.analysis.tool.window.force.activate" value="true" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gebruiker/Documents/School/PXL/Security-Advanced/secure-coding-lab-HarleenBhandalPXL/frontend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51e2bc65-7b6c-4bf5-a5ee-4e024f01fcf6" name="Changes" comment="" />
+      <created>1714919667175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714919667175</updated>
+      <workItem from="1714919668291" duration="2283000" />
+      <workItem from="1714933874727" duration="4302000" />
+      <workItem from="1715107912219" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
