@@ -1,0 +1,17 @@
+# Ignore .env files containing sensitive information
+.env
+
+# Ignore Docker Compose override file
+docker-compose.override.yml
+
+# Ignore log files
+*.log
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore dependencies
+node_modules/
